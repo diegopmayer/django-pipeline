@@ -1,0 +1,9 @@
+devops
+pipeline
+docker
+docker-compose
+terraform
+aws vpc
+aws ecs
+aws fargate
+aws rds

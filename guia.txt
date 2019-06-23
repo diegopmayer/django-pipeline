@@ -1,0 +1,9 @@
+
+docker file 
+    pesquisar melhor
+
+docker compose
+    pesquisar melhor
+
+terraform
+
